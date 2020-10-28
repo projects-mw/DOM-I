@@ -55,3 +55,10 @@ This project is heavier on logic but employs some DOM manipulation to achieve it
 **Follow these steps for completing your project.**
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[emily seibert](https://youtu.be/z0HgLLkH824)
+[sean kirkby](https://youtu.be/2Rw8eOyq0k0)
+[jason maurer](https://youtu.be/gYWM_hHcPqI)
+[josh knell](https://youtu.be/U6RdRjY5wPY)
