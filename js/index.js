@@ -46,3 +46,4 @@ navs.forEach((nav, i) => {
     nav.textContent = siteContent['nav'][`nav-item-${i + 1}`];
     
 })
+// const cta = document.querySelector
